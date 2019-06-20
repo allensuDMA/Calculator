@@ -1,0 +1,18 @@
+#numberOne{
+  border-radius: 12%;
+  border: 2px solid cyan
+}
+
+#numberTwo{
+  border-radius: 12%;
+  border: 2px solid cyan;
+}
+
+#buttonSum{
+  background-color: blue;
+  color: white;
+}
+
+#buttonSum:hover{
+  background-color: black;
+}
